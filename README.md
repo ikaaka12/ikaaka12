@@ -1,7 +1,7 @@
 # Hi, I'm Ika Maryana Mudrikah!! 🐱
 
 <div align="center">
-  <img src="kucing-lucu.gif" width="240" alt="Cute Waving Calico Cat">
+ <img src="kucing_lucu.gif.mp4" width="240" alt="Cute Waving Calico Cat">
   
   <br>
   
