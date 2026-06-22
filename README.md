@@ -1,13 +1,12 @@
 # Hi, I'm Ika Maryana Mudrikah!! 🐱
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF4YTh5MXE1Nm00d3RtNzRieXNndmR4b3M0M3pndmN5bndqd3VpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j3pXW14G4K7oO6k3D3/giphy.gif" width="260" alt="Cute Walking and Waving Calico Cat">
+  <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-contents/master/images/cat-waving.gif" width="180" alt="Cute Waving Cat">
   
   <br>
   
   ### "Crafting code, chasing laser pointers. Pursuing a purr-fectly engineered future" 🐾
 </div>
-
 ---
 
 ### 🌸 About Me
