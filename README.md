@@ -1,8 +1,7 @@
 # Hi, I'm Ika Maryana Mudrikah!! 🐱
 
 <div align="center">
- <img src="kucing_lucu.gif.mp4" width="240" alt="Cute Waving Calico Cat">
-  
+ <video src="kucing_lucu.gif.mp4" width="240" autoplay loop muted playsinline></video>
   <br>
   
   ### "Crafting code, chasing laser pointers. Pursuing a purr-fectly engineered future" 🐾
